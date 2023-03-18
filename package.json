@@ -10,7 +10,10 @@
     "tslib": "^2.5.0",
     "typescript": "^5.0.2"
   },
-  "name": "ramses",
+  "name": "@edgar-carrillo/ramses",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/edgar-carrillo"
+  },
   "version": "1.0.0",
   "description": "Rumble's component library",
   "main": "dist/cjs/index.js",
